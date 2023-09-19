@@ -1,1 +1,3 @@
-# Website Phishing Detection
+# Website Phishing Detection Using Data Mining
+The advancement of internet technology has greatly improved and facilitated daily living. The ease of employing smart devices to complete necessary transactions with a single click has increased. Convenience has a cost, and that cost is the threat posed by phishing websites. Website phishing is the unethical practice of building imitation websites that resemble real websites in order to steal sensitive data and information by posing as the real thing. Phishing attacks are on the rise and have grown to be a serious problem. To stop them, careful actions and precautions must be done. In this study, we examine the Data Mining and Machine Learning techniques currently in use and apply classification algorithms to find dangerous websites.
+
